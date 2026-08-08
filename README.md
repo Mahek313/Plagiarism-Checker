@@ -31,7 +31,22 @@ A web-based plagiarism detection application that analyzes uploaded documents an
 - MongoDB
 - Mongoose
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Analysis Result
+![Analysis Result](screenshots/Analyse.png)
+
+### Recent Checks
+![Recent Checks](screenshots/recent.png)
+
+### Highlighted text
+![Highlighted text](screenshots/text.png)
+
 ## Project Structure
+
 
 ```text
 AI-Plagiarism-Checker/
