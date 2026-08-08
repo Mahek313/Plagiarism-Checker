@@ -198,7 +198,7 @@ function Analysis() {
 
       <div className="hero">
 
-        <h1>🤖 AI Plagiarism Checker</h1>
+        <h1>🤖 Plagiarism Checker</h1>
 
         <p>
           Upload your document and detect plagiarism instantly.

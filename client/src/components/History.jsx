@@ -4,7 +4,7 @@ function History(props) {
   return (
     <div className="history-section">
 
-      <h2>Recent Checks</h2>
+     
 
       <button onClick={props.handleClearHistory}>
         Clear History

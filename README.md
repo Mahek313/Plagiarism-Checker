@@ -1,4 +1,4 @@
-# AI Plagiarism Checker
+# Plagiarism Checker
 
 A web-based plagiarism detection application that analyzes uploaded documents and compares them against a collection of reference documents.
 

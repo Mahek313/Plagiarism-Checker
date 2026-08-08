@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar">
 
-      <h2>🤖 AI Plagiarism Checker</h2>
+      <h2>🤖 Plagiarism Checker</h2>
 
       <div className="nav-links">
 

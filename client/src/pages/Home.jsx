@@ -6,7 +6,7 @@ function Home() {
 
       <div className="hero-section">
 
-        <h1>🤖 AI Plagiarism Checker</h1>
+        <h1>🤖 Plagiarism Checker</h1>
 
         <p>
           Detect plagiarism in PDF, DOCX and TXT documents quickly and accurately.
